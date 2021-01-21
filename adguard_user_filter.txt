@@ -1,6 +1,3 @@
-bilibili.com###right-bottom-banner > div.lazy-img:first-child > img
-bilibili.com###right-bottom-banner > div.lazy-img:first-child
-bilibili.com###right-bottom-banner > span:last-child
 @@||aegis.qq.com/aegis/whitelist?id=904&uin=&version=20210104-1116-sheet-release-20210105-26828836&aid=e6b143d3-2b33-48c3-865d-e66949bb8aa3&platform=100&x5Type=3&netType=100&sessionId=session-1609906428932&from=%3A%2F%2Fdocs.qq.com%2Fsheet%2FDR2pMdURlR0RDcndU%3FgroupUin%3D7%25252FpoudEZfKO9vSJ12s2zKg%25253D%25253D&referer=
 @@||aegis.qq.com/aegis/whitelist?id=904&uin=&version=20210104-1116-sheet-release-20210105-26828836&aid=e6b143d3-2b33-48c3-865d-e66949bb8aa3&platform=100&x5Type=3&netType=100&sessionId=session-1609906432083&from=%3A%2F%2Fdocs.qq.com%2Fsheet%2FDR2pMdURlR0RDcndU%3FgroupUin%3D7%25252FpoudEZfKO9vSJ12s2zKg%25253D%25253D&referer=$domain=docs.qq.com
 nfmovies.com###arCxTFnOFyxW > img:first-child
