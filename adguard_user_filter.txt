@@ -1,5 +1,13 @@
-@@||aegis.qq.com/aegis/whitelist?id=904&uin=&version=20210104-1116-sheet-release-20210105-26828836&aid=e6b143d3-2b33-48c3-865d-e66949bb8aa3&platform=100&x5Type=3&netType=100&sessionId=session-1609906428932&from=%3A%2F%2Fdocs.qq.com%2Fsheet%2FDR2pMdURlR0RDcndU%3FgroupUin%3D7%25252FpoudEZfKO9vSJ12s2zKg%25253D%25253D&referer=
+﻿@@||aegis.qq.com/aegis/whitelist?id=904&uin=&version=20210104-1116-sheet-release-20210105-26828836&aid=e6b143d3-2b33-48c3-865d-e66949bb8aa3&platform=100&x5Type=3&netType=100&sessionId=session-1609906428932&from=%3A%2F%2Fdocs.qq.com%2Fsheet%2FDR2pMdURlR0RDcndU%3FgroupUin%3D7%25252FpoudEZfKO9vSJ12s2zKg%25253D%25253D&referer=
 @@||aegis.qq.com/aegis/whitelist?id=904&uin=&version=20210104-1116-sheet-release-20210105-26828836&aid=e6b143d3-2b33-48c3-865d-e66949bb8aa3&platform=100&x5Type=3&netType=100&sessionId=session-1609906432083&from=%3A%2F%2Fdocs.qq.com%2Fsheet%2FDR2pMdURlR0RDcndU%3FgroupUin%3D7%25252FpoudEZfKO9vSJ12s2zKg%25253D%25253D&referer=$domain=docs.qq.com
 nfmovies.com###arCxTFnOFyxW > img:first-child
 nfmovies.com###alCxTFnOFyxW > img:first-child
 9game.cn##div.guide-app-fix:nth-child(11) > div.box-text
+megalink.vip##div.container:nth-child(2) > div.row > div.col-md-10.col-md-offset-1 > div.box-main:first-child > center > a:nth-child(4) > img
+megalink.vip###adm-id-1
+bing.com###bw-un-vnext-anaFooterNol
+###bw-un-vnext-anaFooterNol
+cn.bing.com###bw-un-vnext-anaFooterNol
+bilibili.com###reportFirst2 > div.extension:first-child > div.ext-box:last-child > div.video-card-common.ex-card-common:first-child > div.card-pic:first-child > a > img:first-child
+bilibili.com###bili_report_live > div.live-tabs:last-child
+@@||www.teambition.com^$important,document
