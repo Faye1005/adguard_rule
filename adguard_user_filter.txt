@@ -11,3 +11,10 @@ cn.bing.com###bw-un-vnext-anaFooterNol
 bilibili.com###reportFirst2 > div.extension:first-child > div.ext-box:last-child > div.video-card-common.ex-card-common:first-child > div.card-pic:first-child > a > img:first-child
 bilibili.com###bili_report_live > div.live-tabs:last-child
 @@||www.teambition.com^$important,document
+listarypro.com###floadAD > a.item > img
+bilibili.com###cheese_right_banner_title > img
+bilibili.com###bili_report_information > div.ifmt:last-child > a:last-child > img
+zxzj.me##div.container:nth-child(2) > div.none:first-child > a > img.img-responsive
+cwres.ncu.edu.cn###slider2d-imgs > ul:first-child > li:first-child > a > img
+cloud.tencent.com###react-root > div:first-child > div.J-body.qa-body:nth-child(5) > div.qa-layout > div.qa-main:first-child > div.com-event-panel:last-child > div.com-event-panel-inner > div.com-event-panel-object:first-child > a:first-child > img.com-event-panel-img
+cloud.tencent.com###react-root > div:first-child > div.J-body.qa-body:nth-child(5) > div.qa-layout > div.qa-main:first-child > div.com-event-panel:last-child > div.com-event-panel-inner > div.com-event-panel-body:last-child > a
