@@ -19,3 +19,6 @@ cwres.ncu.edu.cn###slider2d-imgs > ul:first-child > li:first-child > a > img
 cloud.tencent.com###react-root > div:first-child > div.J-body.qa-body:nth-child(5) > div.qa-layout > div.qa-main:first-child > div.com-event-panel:last-child > div.com-event-panel-inner > div.com-event-panel-object:first-child > a:first-child > img.com-event-panel-img
 cloud.tencent.com###react-root > div:first-child > div.J-body.qa-body:nth-child(5) > div.qa-layout > div.qa-main:first-child > div.com-event-panel:last-child > div.com-event-panel-inner > div.com-event-panel-body:last-child > a
 tampermonkey.net###\31 23kdcf831 > div.i > div:first-child > a > img
+edrawsoft.cn##div:nth-child(4) > a:first-child
+edrawsoft.cn##div:nth-child(4)
+9game.cn##div.guide-app-fix:nth-child(12)
